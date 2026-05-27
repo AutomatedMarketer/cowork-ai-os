@@ -1,6 +1,6 @@
 ---
 name: tidy-downloads
-description: Plan-then-approve cleanup of an allow-listed folder (Downloads, Desktop, etc.). Triggers on "/tidy-downloads", "tidy my downloads", "clean up downloads", "organize downloads", "sort my downloads", "tidy my desktop", "tidy [folder-name]", or any request to organize/clean/sort files in a specific folder. Reads `projects/file-organization/safe-zones.md` BEFORE opening any directory. Writes a plan to `projects/file-organization/plans/` and waits for explicit user approval. Moves and renames only. Never deletes any file. Never writes outside the target allow-zone. Optional argument `[allow-zone-name]` selects which allow-zone to target; defaults to the first allow-zone in safe-zones.md.
+description: Plan-then-approve cleanup of an allow-listed folder. Never deletes — only moves. Trigger when the user says "/tidy-downloads", "clean up my downloads", "organize my files", or "sort my desktop".
 ---
 
 # Tidy Downloads — Plan-Then-Approve File Organization

@@ -1,6 +1,6 @@
 ---
 name: voice-writer
-description: Drafts any kind of text - emails, social posts, replies, captions, newsletter sections, sales copy - in the user voice. Reads writing-rules.md for personal voice and applies the anti-AI kill list. Trigger when the user says write this in my voice, draft this for me, write a post or email or reply or caption, ghostwrite this, or types /voice-writer.
+description: Drafts emails, posts, replies, and copy in the user's voice. Reads writing-rules.md and applies an anti-AI kill list. Trigger when the user says "write this in my voice", "draft this", "write a post or email", or "/voice-writer".
 ---
 
 # Voice Writer — Drafts in Your Voice, Not Mine

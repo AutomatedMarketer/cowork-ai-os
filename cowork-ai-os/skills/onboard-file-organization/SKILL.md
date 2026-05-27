@@ -1,6 +1,6 @@
 ---
 name: onboard-file-organization
-description: Walks the user through Project 03 — File Organization. Triggers on "/onboard-file-organization", "set up file organization", "set up tidy", "install tidy-downloads", "clean up my downloads safely", "organize my files setup". Five phases, ~90 minutes total. Pause-friendly. After Project 01 is complete and the user wants a safe, repeatable cleanup of Downloads (or any allow-listed folder) with a plan-then-approve flow that never deletes and never leaves the allow-zone. Reads state from `_aibos/state-file-organization.md` and resumes at the correct phase. Each phase has its own walkthrough script in `phases/`.
+description: Walks the user through setting up automated file organization with a safe plan-then-approve flow. Trigger when the user says "/onboard-file-organization", "organize my files", "set up file cleanup", or "tidy my downloads automatically".
 ---
 
 # Onboard File Organization — Project 03 Install Skill

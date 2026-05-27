@@ -1,6 +1,6 @@
 ---
 name: tune-up
-description: The weekly self-improvement loop. Runs as a scheduled task (default Friday 4 PM) and on demand. Walks 5 gates with approval at every one - pulse, score, propose, execute, log. Makes ONE change per week to the user Cowork AI OS. Trigger when the user says weekly tune-up, tune up, improve my system, or types /tune-up.
+description: Runs a weekly self-improvement loop across 5 approval-gated steps. Makes ONE change per week to the user's Cowork AI OS. Trigger when the user says "/tune-up", "weekly tune-up", "tune up", or "improve my system".
 ---
 
 # Tune-Up — The Weekly Self-Improvement Loop

@@ -1,6 +1,6 @@
 ---
 name: browse-connectors
-description: Recommends specific MCP connectors the user should enable in Claude Cowork based on their business and which of the 7 buckets (Revenue, Customer, Calendar, Comms, Tasks, Meetings, Knowledge) are still empty. Reads about-me/connections.md and about-me/business-brain.md, then returns 1–3 connectors to add with reasoning, capability unlocks, and safe permission defaults. Use when the user says "/browse-connectors", "what connectors do I need", "recommend MCPs", "what should I plug into Cowork", "I want to connect my CRM", "I want to connect my tasks", "I want to connect my calendar", "what's missing from my setup", "fill the gaps in my connectors", or any request to discover or wire up new MCP integrations.
+description: Recommends MCP connectors to add to Claude Cowork based on the user's business and empty tool buckets. Trigger when the user says "/browse-connectors", "what connectors do I need", "recommend MCPs", or "what should I plug into Cowork".
 ---
 
 # /browse-connectors — Recommend the right MCP connectors for this user's stack

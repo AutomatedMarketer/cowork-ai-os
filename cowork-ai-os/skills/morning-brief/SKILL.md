@@ -1,6 +1,6 @@
 ---
 name: morning-brief
-description: Generates a daily morning brief from the user calendar, inbox, and priorities. Reads about-me files for context and voice. Saves to outputs/daily-brief/. Designed to fire as a scheduled task each morning. Trigger when the user says morning brief, what is on today, daily brief, or types /morning-brief.
+description: Generates a daily morning brief from the user's calendar, inbox, and priorities. Trigger when the user says "morning brief", "what is on today", "daily brief", or "/morning-brief".
 ---
 
 # Morning Brief — Your Day, In One Read

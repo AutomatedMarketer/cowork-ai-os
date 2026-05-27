@@ -1,6 +1,6 @@
 ---
 name: level-up
-description: Finds the single highest-leverage next move for the user's Cowork AI OS. Asks 5 quick questions, recommends ONE specific action across 6 forms — build a custom skill, install a community plugin (delegates to /browse-skills), enable an MCP connector (delegates to /browse-connectors), refine an about-me file, schedule a routine, or build via /add-skill. Different from /audit — audit measures the current state, level-up recommends the next concrete action. Trigger when the user says "/level-up", "what should I improve next", "what's the next step", "level up my Cowork AI OS", "what is next", "what's missing from my setup", "where should I focus this week", "give me one thing to do".
+description: Finds the single highest-leverage next move for the user's Cowork AI OS setup. Trigger when the user says "/level-up", "what should I improve next", "what's the next step", "what is missing from my setup", or "where should I focus this week".
 ---
 
 # Level-Up — Find the Next Leverage Move

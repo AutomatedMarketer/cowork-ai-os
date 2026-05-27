@@ -1,6 +1,6 @@
 ---
 name: brief-source-comms
-description: Pulls team-comms data (channels, DMs, mentions) for the daily brief from whichever messaging platform(s) the user has connected — Slack, Discord, Telegram, Microsoft Teams, or others. Triggered by the morning-brief skill when brief-preferences.md has Q4 (team comms rules) populated. Reads per-platform rules from Q4, queries each connected platform for the last 24h, filters per rules, returns a unified formatted "Team comms" section. Read-only on every platform — never posts, never reacts, never modifies. Activated by /onboard-daily-brief Phase 3.
+description: Pulls team-comms data from Slack, Discord, Teams, or Telegram for the morning brief. Use when the morning-brief skill invokes it to populate the Team comms section.
 ---
 
 # Brief Source — Team Comms

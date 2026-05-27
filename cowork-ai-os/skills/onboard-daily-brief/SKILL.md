@@ -1,6 +1,6 @@
 ---
 name: onboard-daily-brief
-description: Walks the user through Project 02 — Daily Brief expansion. Triggers on "/onboard-daily-brief", "set up daily brief", "expand morning brief", "add team comms to my brief", "add slack to my brief", "add discord to my brief", "add telegram to my brief", "add tasks to my brief", "tighten my draft rules". After Project 01 is complete and the user wants to add team-comms pulls (Slack/Discord/Telegram/Teams), today.md task reads, a 90-day outcome ranking lens, and stricter draft rules to the basic morning brief. Reads state from `_aibos/state-daily-brief.md` and resumes at the correct phase. Six phases. Pause-friendly. Each phase has its own walkthrough script in `phases/`.
+description: Walks the user through expanding their morning brief with team comms and task sources. Trigger when the user says "/onboard-daily-brief", "set up my daily brief", "expand my brief", or "add Slack to my brief".
 ---
 
 # Onboard Daily Brief — Project 02 Install Skill

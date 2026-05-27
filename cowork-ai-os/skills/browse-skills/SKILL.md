@@ -1,6 +1,6 @@
 ---
 name: browse-skills
-description: Recommends specific community plugins and skills the user should install in Claude Cowork based on their business type, goals, and current setup. Reads about-me/business-brain.md and about-me/about-me.md, then returns 3 ranked picks with reasoning and install instructions. Use when the user says "/browse-skills", "what skills should I install", "what plugins do I need", "recommend skills for my business", "what should I add to Cowork", "I want to do X in Cowork — what should I use", "show me what's available", "what else can Claude Cowork do", or any request to discover new capabilities beyond what's already installed.
+description: Recommends community plugins and skills for Claude Cowork based on the user's business and goals. Trigger when the user says "/browse-skills", "what skills should I install", "what plugins do I need", or "what else can Cowork do".
 ---
 
 # /browse-skills — Recommend the right skills + plugins for this user's business

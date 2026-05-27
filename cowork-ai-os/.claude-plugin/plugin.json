@@ -1,7 +1,7 @@
 {
   "name": "cowork-ai-os",
-  "version": "0.10.2",
-  "description": "Turn Claude Cowork into your AI business operating system. Onboarding, daily brief with optional team comms + tasks, plan-then-approve file organization (/tidy-downloads — never deletes), voice writer, audit, weekly self-improvement loop. v0.10 added discovery (/browse-skills and /browse-connectors with /level-up branching). v0.10.2 adds live-fetch from Anthropic's public Connectors directory (claude.com/connectors) and Plugin/Skill marketplaces (anthropics/claude-plugins-official + anthropics/skills) so recommendations stay current — no more stale bundled catalogs. /tune-up now surfaces what's new in the directories since your last tune-up.",
+  "version": "0.10.3",
+  "description": "AI operating system for Claude Cowork. 9-phase onboarding wizard, daily brief, voice writer, audit, tune-up, browse-skills, browse-connectors, file organizer. Mac and Windows.",
   "author": {
     "name": "Nuno Tavares"
   }

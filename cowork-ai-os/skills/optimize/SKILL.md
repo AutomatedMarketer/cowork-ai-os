@@ -1,6 +1,6 @@
 ---
 name: optimize
-description: Speed up a slow Cowork. Diagnoses the workspace handbook + memory file, fixes a known per-turn slowdown bug (pre-v0.9 handbook directive), and archives overflowed memory entries silently. Use when the user says "/optimize", "Cowork is slow", "speed up Cowork", "fix slowness", "Claude is slow", "decrease memory", "decrease tokens", "every prompt takes forever", "Start Up takes too long", or any complaint about per-prompt latency. Also use as the v0.9 migration path for users who installed before v0.9.0. Plan-then-approve — never edits files without showing the diagnosis and waiting for "yes".
+description: Diagnoses and fixes Cowork slowness. Trigger when the user says "/optimize", "Cowork is slow", "speed up Cowork", "every prompt takes forever", or "Start Up takes too long".
 ---
 
 # /optimize — Speed up a slow Cowork
