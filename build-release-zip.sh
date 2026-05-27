@@ -73,6 +73,8 @@ echo "→ Verifying zip contents..."
 REQUIRED_FILES=(
   ".claude-plugin/plugin.json"
   "skills/onboard/SKILL.md"
+  "skills/onboard/reference/7-buckets.md"
+  "skills/onboard/reference/4-cs-framework.md"
   "skills/morning-brief/SKILL.md"
   "skills/onboard-daily-brief/SKILL.md"
   "skills/brief-source-comms/SKILL.md"
