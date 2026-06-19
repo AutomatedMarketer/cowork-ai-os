@@ -117,7 +117,7 @@ Adding a new platform later requires zero code changes to the skill — it dispa
 
 ## Curriculum (VCI cohort students)
 
-The full Project 02 — Daily Brief curriculum (Quick Start + 6 lessons + concept deck) is available to VCI cohort members at [vcinc.com](https://vcinc.com). Each lesson maps 1:1 to a phase of this install.
+The full Project 02 — Daily Brief curriculum (Quick Start + 6 lessons + concept deck) is available to VCI cohort members at [vcinc.ai](https://vcinc.ai). Each lesson maps 1:1 to a phase of this install.
 
 ---
 
@@ -135,4 +135,4 @@ The full Project 02 — Daily Brief curriculum (Quick Start + 6 lessons + concep
 
 - Newsletter: [automatedmarketer.net](https://automatedmarketer.net)
 - YouTube: [@AutomatedMarketer](https://youtube.com/@AutomatedMarketer)
-- VCI cohort: [vcinc.com](https://vcinc.com)
+- VCI cohort: [vcinc.ai](https://vcinc.ai)

@@ -155,7 +155,7 @@ Follow the [README install flow](https://github.com/AutomatedMarketer/cowork-aib
 
 ## Curriculum (VCI cohort students)
 
-The full Project 03 curriculum (Quick Start + 4 lessons + concept deck) is available to VCI cohort members at [vcinc.com](https://vcinc.com). Each lesson maps 1:1 to a phase of this install:
+The full Project 03 curriculum (Quick Start + 4 lessons + concept deck) is available to VCI cohort members at [vcinc.ai](https://vcinc.ai). Each lesson maps 1:1 to a phase of this install:
 
 - VCI Lesson C03-01 (Declare Your Safe Zones) → Phase 1
 - VCI Lesson C03-02 (Build the /tidy-downloads Skill) → Phase 2 (now: verify the shipped skill instead of building one)
@@ -180,4 +180,4 @@ The structural change in Phase 2: the plugin now ships `/tidy-downloads` directl
 
 - Newsletter: [automatedmarketer.net](https://automatedmarketer.net)
 - YouTube: [@AutomatedMarketer](https://youtube.com/@AutomatedMarketer)
-- VCI cohort: [vcinc.com](https://vcinc.com)
+- VCI cohort: [vcinc.ai](https://vcinc.ai)

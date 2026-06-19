@@ -272,7 +272,7 @@ Your `about-me/`, `outputs/`, and `_aibos/state.md` survive — they live in you
 
 ## Curriculum (for VCI cohort students)
 
-The full Project 01 — Core Setup curriculum (Quick Start + 8 lessons + concept deck) is available to VCI cohort members at [vcinc.com](https://vcinc.com). Each lesson maps 1:1 to a phase of this install.
+The full Project 01 — Core Setup curriculum (Quick Start + 8 lessons + concept deck) is available to VCI cohort members at [vcinc.ai](https://vcinc.ai). Each lesson maps 1:1 to a phase of this install.
 
 ---
 
@@ -282,7 +282,7 @@ The full Project 01 — Core Setup curriculum (Quick Start + 8 lessons + concept
 
 - 📰 Newsletter: [automatedmarketer.net](https://automatedmarketer.net)
 - 📺 YouTube: [@AutomatedMarketer](https://youtube.com/@AutomatedMarketer)
-- 🎓 VCI cohort: [vcinc.com](https://vcinc.com)
+- 🎓 VCI cohort: [vcinc.ai](https://vcinc.ai)
 
 ---
 
