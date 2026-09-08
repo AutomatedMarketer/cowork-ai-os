@@ -21,23 +21,16 @@ That's the foundation. From there, you layer Anthropic's role plugins (productiv
 
 ---
 
-## Install (two commands, 30 seconds)
+## Install (about 10 minutes)
 
-In Cowork (Claude Desktop), open a new task and type:
+**Full step-by-step guide with screenshots: [docs/install/INSTALL.md](docs/install/INSTALL.md).** Start there if this is your first plugin.
 
-```
-/plugin marketplace add automatedmarketer/cowork-ai-os
-```
+The short version, inside Claude Desktop on the **Cowork** tab:
 
-Then:
-
-```
-/plugin install cowork-ai-os
-```
-
-That's it. Cowork AI OS is now installed.
-
-To start the install walkthrough, type:
+1. Pick a folder: **Work in a project ▾ → Choose a different folder** → select your `Claude Cowork` folder.
+2. **Customize** → **+** next to *Personal plugins* → **Create plugin ▸ Add marketplace** → paste `AutomatedMarketer/cowork-ai-os` → **Sync**.
+3. In the **Directory** window: **Personal** tab → **cowork-ai-os** → click **+** on the card. You'll see *"Cowork ai os is installed and ready to use."*
+4. Back on **New task**: set **Ask before acting**, pick **Sonnet**, and type:
 
 ```
 start onboarding
