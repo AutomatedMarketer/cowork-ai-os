@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 # Cowork AI OS — AI Operating System for Claude Cowork
@@ -17,7 +19,7 @@
 
 Cowork AI OS is an open-source plugin that turns Claude Cowork into a configured AI teammate that knows your business, your voice, and your day. Built by [Nuno Tavares](https://nunomtavares.com) for VCI cohort students and anyone who wants to install AI infrastructure instead of bouncing between chat tabs.
 
-> **New in v0.10:** Discovery layer. `/browse-skills` recommends community plugins for your business. `/browse-connectors` recommends MCP connectors to fill the gaps in your 7-bucket setup. Both read your `about-me/business-brain.md` and return ranked picks with reasoning + install instructions. Plus `/onboard` Phases 5 + 7 now invoke the recommenders to personalize your setup from day one. See the [architecture brief](cowork-ai-os/docs/architecture.md) and the [v0.10 rollout post](cowork-ai-os/docs/rollout-v0.10/post-banner.md).
+> **New in v0.10:** Discovery layer. `/browse-skills` recommends community plugins for your business. `/browse-connectors` live-fetches the official directory & recommends MCP connectors to fill the gaps in your 7-bucket setup. Both read your `about-me/business-brain.md` and return ranked picks with reasoning + install instructions. Plus `/onboard` Phases 5 + 7 now invoke the recommenders to personalize your setup from day one. See the [architecture brief](cowork-ai-os/docs/architecture.md) and the [v0.10 rollout post](cowork-ai-os/docs/rollout-v0.10/post-banner.md).
 >
 > **From v0.9 (still live):** Progressive-disclosure architecture. Per-prompt "Start Up" latency under 3s. Auto-archiving memory. `/optimize` available any time Cowork feels slow.
 
