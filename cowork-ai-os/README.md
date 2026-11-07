@@ -2,7 +2,7 @@
 
 > *Most AI templates ship 30 skills you can't relate to. Cowork AI OS ships 7 skills every business needs, and teaches you to build the next 30 yourself — for your business, in your voice, on your terms.*
 
-**Built by Nuno Tavares · Automated Marketer · VCInc**
+**Built by Nuno Tavares · Automated Marketer · Leverage School**
 
 ---
 
