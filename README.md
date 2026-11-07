@@ -15,7 +15,7 @@
 
 ---
 
-Cowork AI OS is an open-source plugin that turns Claude Cowork into a configured AI teammate that knows your business, your voice, and your day. Built by [Nuno Tavares](https://nunomtavares.com) for VCI cohort students and anyone who wants to install AI infrastructure instead of bouncing between chat tabs.
+Cowork AI OS is an open-source plugin that turns Claude Cowork into a configured AI teammate that knows your business, your voice, and your day. Built by [Nuno Tavares](https://nunomtavares.com) for Leverage School members and anyone who wants to install AI infrastructure instead of bouncing between chat tabs.
 
 > **New in v0.10:** Discovery layer. `/browse-skills` recommends community plugins for your business. `/browse-connectors` recommends MCP connectors to fill the gaps in your 7-bucket setup. Both read your `about-me/business-brain.md` and return ranked picks with reasoning + install instructions. Plus `/onboard` Phases 5 + 7 now invoke the recommenders to personalize your setup from day one. See the [architecture brief](cowork-ai-os/docs/architecture.md) and the [v0.10 rollout post](cowork-ai-os/docs/rollout-v0.10/post-banner.md).
 >
@@ -270,19 +270,19 @@ Your `about-me/`, `outputs/`, and `_aibos/state.md` survive — they live in you
 
 ---
 
-## Curriculum (for VCI cohort students)
+## Curriculum (for Leverage School members)
 
-The full Project 01 — Core Setup curriculum (Quick Start + 8 lessons + concept deck) is available to VCI cohort members at [vcinc.ai](https://vcinc.ai). Each lesson maps 1:1 to a phase of this install.
+The full Project 01 — Core Setup curriculum (Quick Start + 8 lessons + concept deck) is available to Leverage School members at [leverageschool.com](https://leverageschool.com). Each lesson maps 1:1 to a phase of this install.
 
 ---
 
 ## Built by
 
-**[Nuno Tavares](https://nunomtavares.com)** — tech coach, founder of Automated Marketer, Lovable AI Ambassador, GoHighLevel Multiple Award Winner. Trains 7-figure entrepreneurs on AI infrastructure.
+**[Nuno Tavares](https://nunomtavares.com)** — AI Consultant · AI Automations, Agents & Skills Expert · GoHighLevel Expert. Founder of Leverage School and Automated Marketer. 10,000+ people trained. *AI is leverage. Learn to use it.*
 
 - 📰 Newsletter: [automatedmarketer.net](https://automatedmarketer.net)
 - 📺 YouTube: [@AutomatedMarketer](https://youtube.com/@AutomatedMarketer)
-- 🎓 VCI cohort: [vcinc.ai](https://vcinc.ai)
+- 🎓 Leverage School: [leverageschool.com](https://leverageschool.com)
 
 ---
 
@@ -307,6 +307,6 @@ MIT — fork it, edit it, make it your own. See [LICENSE](LICENSE).
 <div align="center">
 
 *Cowork AI OS is open source at [github.com/automatedmarketer/cowork-ai-os](https://github.com/automatedmarketer/cowork-ai-os)*
-*Built for VCI cohort students and anyone who wants to stop using Claude like a chatbot — and start using it like infrastructure.*
+*Built for Leverage School members and anyone who wants to stop using Claude like a chatbot — and start using it like infrastructure.*
 
 </div>
